@@ -11,7 +11,7 @@ The Computation part of the code is done in C++ but the analysis, (i.e. the grap
 
 If you run the sim.py, it 'should' compile and run the code with some included intial conditions. 
 
-Some initial conditions are include as csv files (inner_planets.csv and solar_system.csv) but as long as the csv file is in the right format you should be good to put what starting conditions you like. Just run the code from command line as shown in the sim.py file.
+Some initial conditions are include as csv files (sun_earth.csv, inner_planets.csv and solar_system.csv) but as long as the csv file is in the right format you should be good to put what starting conditions you like. Just run the code from command line as shown in the sim.py file.
 
 This was an adaptation of a project that I had for an uni project, but I decided to make a few changes myself. 
 (I've been working on a render engine, so I might add live graphics if I get around to it.)
